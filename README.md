@@ -4,15 +4,4 @@ The Resume Analyzer is a powerful web-based application designed to analyze resu
 This tool helps recruiters and hiring managers efficiently evaluate job applicants' resumes, extracting key insights, and providing recommendations to streamline the recruitment process. 
 The application leverages NLP to extract essential information like skills, experience, education, and job titles, and matches the resume content against job descriptions for better candidate-job fit.
 
-Source
-Extracting user's information from the Resume, I used PyResparser.
-Extracting Resume PDF into Text, I used PDFMiner.
 
-Features
-User's & Admin Section
-Resume Score
-Career Recommendations
-Resume writing Tips suggestions
-Courses Recommendations
-Skills Recommendations
-Youtube video recommendations
